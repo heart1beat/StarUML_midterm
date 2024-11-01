@@ -16,3 +16,5 @@
 
 3.對於系統管理人員
 ![image](https://github.com/heart1beat/StarUML_midterm/blob/main/adminstrator1.png)
+
+參考資料:https://blog.csdn.net/guleilei0/article/details/124869573?spm=1001.2014.3001.5502
